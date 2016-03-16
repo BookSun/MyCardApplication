@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_teacher">Navigation Teacher</string>
+    <string name="nav_item_course">Navigation Course</string>
+    <string name="menulist_teacher_header">优秀教师推荐</string>
+    <string name="menulist_card_teacher0">硕士导师</string>
+    <string name="menulist_card_teacher1">大学教师</string>
+    <string name="menulist_card_teacher2">高中教师</string>
+    <string name="menulist_card_teacher3">初中教师</string>
+    <string name="menulist_card_teacher4">小学教师</string>
+    <string name="menulist_course_header">优秀课程推荐</string>
+    <string name="menulist_card_course0">研究生课程</string>
+    <string name="menulist_card_course1">大学课程</string>
+    <string name="menulist_card_course2">高中课程</string>
+    <string name="menulist_card_course3">初中课程</string>
+    <string name="menulist_card_course4">小学课程</string>
+    <string name="menulist_school_header">优秀学校推荐</string>
+    <string name="menulist_card_school0">优秀大学</string>
+    <string name="menulist_card_school1">优秀高中</string>
+    <string name="menulist_card_school2">优秀初中</string>
+    <string name="menulist_card_school3">优秀小学</string>
+</resources>
